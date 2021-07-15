@@ -5,7 +5,10 @@ Make everything a GitHub svg poster and [skyline](https://skyline.github.com/)!
 
 ## 直接引入 `svg` 在 `README` 中的例子
 
-![](https://github.com/yihong0618/GitHubPoster/blob/main/examples/twitter.svg)
+我的 Twitter 发布数热力图（截止于 2021/7/15）   
+![](https://github.com/phh95/GitHubPoster/blob/main/OUT_FOLDER/twitter.svg)
+
+原作者提供的扇贝热力图示例    
 ![](https://github.com/yihong0618/GitHubPoster/blob/main/examples/shanbay.svg)
 
 ## Skyline
